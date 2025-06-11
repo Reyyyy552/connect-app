@@ -1,5 +1,6 @@
 import {
   IconLogout2,
+  IconNews,
   IconUser,
   IconUserBolt,
   IconUserCog,
@@ -19,6 +20,10 @@ import {
           <button className="p-2.5 text-left text-base cursor-pointer flex items-center gap-2 rounded-lg font-bold">
             {" "}
             <IconUserCog /> Hak akses
+          </button>
+          <button className="p-2.5 text-left text-base cursor-pointer flex items-center gap-2 rounded-lg font-bold">
+            {" "}
+            <IconNews /> Berita
           </button>
           <button className="p-2.5 text-left text-base cursor-pointer flex items-center gap-2 rounded-lg font-bold">
             {" "}
